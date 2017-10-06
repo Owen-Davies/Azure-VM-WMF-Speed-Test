@@ -26,7 +26,7 @@
     },
     "_artifactsLocation":{
       "type": "string",
-      "defaultValue": "<YOUR_BLOB_STORAGE_LOCATION>"
+      "defaultValue": "https://github.com/Owen-Davies/Azure-VM-WMF-Speed-Test/raw/master"
     },
     "deployDSC":{
       "type": "string",
